@@ -62,6 +62,8 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/e22d0f249936737803c5a37eb8f573a3cefe63b8/Data%20Classes.png)
 
 # Null Safety
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/42ea433e746ebd627feaa1ae723d8e610f84663c/Null%20Safety.png)
+
 ![image alt](
 
 
