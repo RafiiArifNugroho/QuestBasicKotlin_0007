@@ -45,6 +45,9 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/e33dbf8f52293b55a40c102ca57e0550023435c0/Loops%20-%20While.png)
 
 # Loops - Do-While
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/8d283f3e411fdf7c4b4306b654520910ba8738f6/Loops%20-%20Do-While.png)
+
+# Functions - Named Arguments, Default Parameter Values, Functions Without Return
 ![image alt](
 
 
