@@ -15,4 +15,7 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007.-/blob/e299bbaa66b04f74e966a0c74a09316b5bcc88b3/Tipe%20data%20dasar.png)
 
 # Collection - List
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/b1e3262c2379e3d1016e1e57ffbe648107f32619/Collection%20-%20List.png)
+
 ![image alt](
+
