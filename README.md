@@ -64,7 +64,7 @@
 # Null Safety
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/42ea433e746ebd627feaa1ae723d8e610f84663c/Null%20Safety.png)
 
-![image alt](
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/44049f070224d33b243e00f78447c0461517b0b3/Null%20Safety%201.png)
 
 
 
