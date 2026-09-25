@@ -20,5 +20,8 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/9a442cfb6aaf076203d7d09d055abaf52142d69c/Collection%20-%20List%202.png)
 
 # Collection - Set
-![image alt](
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/ed36bc3a1834d7fd4dfefc8672f77b54470954c7/Collection%20-%20Set.png)
+
+# Collection - Map
+![image alt]
 
