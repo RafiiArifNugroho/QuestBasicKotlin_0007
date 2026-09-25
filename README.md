@@ -36,7 +36,7 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/a30746064c3e0fc16ba2458fb754a17ecde7e493/Conditional%20Expression%20%20-%20When%201.png)
 
 # Ranges
-![image alt]
+![image alt](
 
 
 
