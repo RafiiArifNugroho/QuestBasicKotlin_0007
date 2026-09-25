@@ -23,12 +23,15 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/ed36bc3a1834d7fd4dfefc8672f77b54470954c7/Collection%20-%20Set.png)
 
 # Collection - Map
-![image alt]( 
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/c0d066819b63f09256e631f9ad306d40415a1e2a/Collection%20-%20Map%201.png)
 
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/a76ad4e525ec118846b3ca1a6d01efe96002c377/Collection%20-%20Map.png)
 
 # Conditional Expressions - lf
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/a4728a7f109ea41566a0486a4f0b27e70b02758d/Conditional%20Expressions%20-%20lf.png)
+
+# Conditional Expressions - When
+![image alt](
 
 
 
