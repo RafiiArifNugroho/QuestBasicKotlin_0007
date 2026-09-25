@@ -39,10 +39,10 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/fcfa87c3ddc35303649c342e33a86579fa85cbf7/Ranges.png)
 
 # Loops - For
-![image alt](
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/a2d0c21a7929168e640c88882e9f7343efb6d129/Loops%20-%20For.png)
 
 # Loops - While
-
+![image alt](
 
 
 
