@@ -5,3 +5,9 @@
 
  # Variables
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007.-/blob/64ea3212a93f390f1c3b69aa06a566d718f45ca1/Variables.png)
+
+# String Templates
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007.-/blob/204a9d36f24cf44d4d74930c9210beb094a54fb4/String%20Templates.png)
+
+# Tipe Data Dasar
+![image alt](
