@@ -59,7 +59,7 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/e2107595c74980b9928823d35f4e327c7c6d1acf/Class%20-%20Create%20instance.png)
 
 # Data Classes
-![image alt](
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/e22d0f249936737803c5a37eb8f573a3cefe63b8/Data%20Classes.png)
 
 # Null Safety
 ![image alt](
