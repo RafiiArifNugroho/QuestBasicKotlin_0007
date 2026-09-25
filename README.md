@@ -42,6 +42,9 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/a2d0c21a7929168e640c88882e9f7343efb6d129/Loops%20-%20For.png)
 
 # Loops - While
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/e33dbf8f52293b55a40c102ca57e0550023435c0/Loops%20-%20While.png)
+
+# Loops - Do-While
 ![image alt](
 
 
