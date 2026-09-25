@@ -56,7 +56,13 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/8fc1e467a629d726b2cc591b5468cb9213d8e5ed/Lamda%20Expressions.png)
 
 # Class - Create lnstance, Access Properties, Member Functions
-![image alt]
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/e2107595c74980b9928823d35f4e327c7c6d1acf/Class%20-%20Create%20instance.png)
+
+# Data Classes
+![image alt](
+
+# Null Safety
+![image alt](
 
 
 
