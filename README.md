@@ -12,4 +12,4 @@
 # Tipe Data Dasar
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007.-/blob/e299bbaa66b04f74e966a0c74a09316b5bcc88b3/Tipe%20data%20dasar.png)
 
-![image alt](
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007.-/blob/e299bbaa66b04f74e966a0c74a09316b5bcc88b3/Tipe%20data%20dasar.png)
