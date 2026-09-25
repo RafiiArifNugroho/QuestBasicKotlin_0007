@@ -28,7 +28,7 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/a76ad4e525ec118846b3ca1a6d01efe96002c377/Collection%20-%20Map.png)
 
 # Conditional Expressions - lf
-![image alt]
+![image alt](
 
 
 
