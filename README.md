@@ -31,6 +31,8 @@
 ![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/a4728a7f109ea41566a0486a4f0b27e70b02758d/Conditional%20Expressions%20-%20lf.png)
 
 # Conditional Expressions - When
+![image alt](https://github.com/RafiiArifNugroho/QuestBasicKotlin_0007/blob/5bd64d609e49bfd7978edef7ae60e837887be64a/Conditional%20Expression%20-%20when.png)
+
 ![image alt](
 
 
